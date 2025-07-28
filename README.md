@@ -34,6 +34,7 @@ LSTM: applied deep learning for sequence modeling, but underperformed due to dat
 XGBoost: leveraged lag features and temporal variables, delivering the best performance with strong generalization.
 
 📈 Findings
+
 XGBoost outperformed all other models, especially for SKUs with frequent promotions and consistent patterns.
 
 LSTM showed poor performance due to limited data per SKU and irregular time series structure.
